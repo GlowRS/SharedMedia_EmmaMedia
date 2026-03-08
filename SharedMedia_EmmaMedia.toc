@@ -1,4 +1,0 @@
-## Interface: 11508, 20505, 30405, 38000, 40402, 50503, 110207, 120000, 120001 
-## Title: SharedMedia_EmmaMedia 
-## Dependencies: SharedMedia 
-MyMedia.lua 
